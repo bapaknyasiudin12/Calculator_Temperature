@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator Temperature</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="img/icon.png" type="image/png">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <h1 class="Title">Udin Dev</h1>
+        </div>
+
+        <nav class="navbar">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Docs</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="calculator-container">
+
+            <!-- Container Start -->
+            <div class="input-container">
+                <label for="input"><span id="input-text-temp">Celcius</span> (&deg;<span
+                        id="input-logo-temp">C</span>)</label>
+                <input type="number" class="form-control" id="input">
+            </div>
+            <!-- Container End -->
+
+            <!-- Result Start -->
+            <div class="result-container">
+                <label for="input"><span id="result-text-temp">Hasil</span> (&deg;<span
+                        id="result-logo-temp">F</span>)</label>
+                <input type="number" class="form-control" id="result" disabled>
+            </div>
+            <!-- Result End -->
+
+            <!-- Button Start -->
+            <div class="button-container">
+                <button type="button" id="convert" class="btn btn-primary btn-md btn-block">Convert</button>
+                <button type="button" id="reset" class="btn btn-warning btn-md btn-block">Reset</button>
+                <button type="button" id="change" class="btn btn-danger btn-md btn-block">Change</button>
+            </div>
+            <!-- Button End -->
+
+            <!-- Information Start -->
+            <div class="Information">
+                <h1 id="conversion-title">Rumus Konversi Dari Celcius(&deg;C) Ke Fahrenheit(&deg;F)</h1>
+                <p id="conversion-text">
+                    Suhu <span class="superscript">S</span> dalam derajat Fahrenheit (&deg;F)sama dengan suhu <span
+                        class="superscript">S</span> dalam derajat Celcius (&deg;C) kali 9/5 tambah 32
+                    <br><br>
+                    S<span class="subscript">(&deg;F)</span> = (S<span class="subscript">(&deg;S)</span> x 9/5) + 32
+                    <br><br>
+                    atau
+                    <br><br>
+                    S<span class="subscript">(&deg;F)</span> = (S<span class="subscript">(&deg;S)</span> x 1.8) + 32
+                </p>
+            </div>
+            <!-- Information End -->
+
+        </div>
+    </main>
+
+    <footer>
+        <p>Website ini dibuat dengan 🌾 oleh Udin Developer</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+
+</html>
