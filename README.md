@@ -1,17 +1,17 @@
-Kalkulator Konversi Suhu v 0.1.0(Final)
+Temperature Conversion Calculator v 0.1.0(Final)
 
 https://revou-fundamental-course.github.io/5-feb-24-udinschoolaccount/
 
-Website ini dibuat berdasarkan dokumentasi Brief_SEFC_H.
-UI pada website ini juga berdasarkan dokumentasi example_ui.
-Dan juga website ini dibuat untuk memenuhi tugas dari acara RevoU Fundamental Course: Software Engineering.
+This website was created based on the Brief_SEFC_H documentation.
+The UI on this website is also based on the example_ui documentation.
+And also this website was created to fulfill the assignments for the RevoU Basic Course: Software Engineering.
 
-Website ini dibuat dengan menggunakan HTML, CSS, dan JavaScript.
-Website ini dapat mengkonversi suhu dari celcius ke fahrenheit atau sebaliknya.
-Tema website saya adalah biru dan hitam.
+This website was created using HTML, CSS, and JavaScript.
+This website can convert temperatures from Celsius to Fahrenheit or vice versa.
+My website theme is blue and black.
 
-Cukup sekian dan terimakasih.
-Salam hangat kandaku🌾🌾🌾🌾.
-Tetap ilmu padi🌾🌾🌾🌾.
+That's all and thank you.
+Warm greetings my brother 🌾🌾🌾🌾
+Maintain rice knowledge🌾🌾🌾🌾
 
--Udin Developer
+-Developer Udin
