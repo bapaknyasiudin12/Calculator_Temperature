@@ -11,7 +11,7 @@ Website ini dapat mengkonversi suhu dari celcius ke fahrenheit atau sebaliknya.
 Tema website saya adalah biru dan hitam.
 
 Cukup sekian dan terimakasih.
-Salam hangat kandaku🌾🌾🌾🌾
-Tetap ilmu padi🌾🌾🌾🌾
+Salam hangat kandaku🌾🌾🌾🌾.
+Tetap ilmu padi🌾🌾🌾🌾.
 
 -Udin Developer
